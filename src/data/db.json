@@ -1,4 +1,46 @@
-{
+{  
+  "brands": [
+    {
+      "id": 1,
+      "name": "Bmw"
+    },
+    {
+      "id": 2,
+      "name": "Mercedes"
+    },
+    {
+      "id": 3,
+      "name": "Audi"
+    },
+    {
+      "id": 4,
+      "name": "VolksWagen"
+    },
+    {
+      "id": 5,
+      "name": "Ford"
+    },
+    {
+      "id": 6,
+      "name": "Toyota"
+    },
+    {
+      "id": 7,
+      "name": "Honda"
+    },
+    {
+      "id": 8,
+      "name": "Opel"
+    },
+    {
+      "id": 9,
+      "name": "Peugeot"
+    },
+    {
+      "id": 10,
+      "name": "Seat"
+    }
+  ]
   "users": [
     {
       "id": 1,
